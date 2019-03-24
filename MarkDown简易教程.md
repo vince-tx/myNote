@@ -41,7 +41,7 @@ tips:换行只需要在末尾敲两个以上空格然后回车就可以
 ```
 ![不就是钱么](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b219ebc4b74543a9c561649812178a82b901146f.jpg "马云")
 ```
-效果如下：
+效果如下:
 ![不就是钱么](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b219ebc4b74543a9c561649812178a82b901146f.jpg "马云")
 ### 六、超链接
 ```
