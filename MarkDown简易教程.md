@@ -52,12 +52,12 @@ tips:换行只需要在末尾敲两个以上空格然后回车就可以
 如:
 <a href="https://www.baidu.com" target="_blank">简书</a>
 ```
-示范：
+示范:
 [百度(markdown语法) ](www.baidu.com "百度")
 <a href="https://www.baidu.com" target="_blank">百度(a标签)</a>
 ### 七、列表
 #### 1.无序列表
-语法：
+语法:
 无序列表用- + * 任何一种都可以
 ```
 - 内容
