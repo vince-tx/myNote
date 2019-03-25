@@ -3,4 +3,4 @@
 QQ: 1076961087
 
 
-![iu](https://github.com/woshitangxiao/myNote/blob/master/img/iu.jpg)                   
+![iu](https:com//github.com/woshitangxiao/myNote/blob/master/img/iu.jpg)                   
