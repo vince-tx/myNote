@@ -41,7 +41,7 @@ tips:换行只需要在末尾敲两个以上空格然后回车就可以
 ```
 ![不就是钱么](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b219ebc4b74543a9c561649812178a82b901146f.jpg "马云")
 ```
-效果如下:
+效果如下:<br>
 ![不就是钱么](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b219ebc4b74543a9c561649812178a82b901146f.jpg "马云")
 ### 六、超链接
 ```
@@ -52,8 +52,8 @@ tips:换行只需要在末尾敲两个以上空格然后回车就可以
 如:
 <a href="https://www.baidu.com" target="_blank">简书</a>
 ```
-示范:
-[百度(markdown语法) ](www.baidu.com "百度")
+示范:<br>
+[百度(markdown语法) ](www.baidu.com "百度")<br>
 <a href="https://www.baidu.com" target="_blank">百度(a标签)</a>
 ### 七、列表
 #### 1.无序列表
